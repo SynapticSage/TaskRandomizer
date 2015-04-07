@@ -6,7 +6,7 @@
 #
 #Description:
 #   File contains basic classes and operational procedures for a virtual "Lazy Suzan". I plan to put it to use picking
-#   which task to take on when I become less interested with the current task I'm working on, at the suggestion of David Eagleman.
+#   which task to take on when I become less interested with the current task I'm working on.
 #   It needs to have the flexibility to a store a hierarchy of tasks, and select at random from the
 #   tasks a new task. Inherent in the selection of a new task, the lazy suzan must keep track of the current task
 #   I'm working on, as well as the priority of tasks. Future capabilities may be added to the class to support different
